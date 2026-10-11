@@ -2,7 +2,7 @@
 ### Hotel Booking and Renting Platform
 
 <p align="center">
- Major Project File: https://drive.google.com/file/d/18fs8Y5T3nmV7OAd8B-e7ObDVIJ6WoKXJ/view
+  Project File: https://drive.google.com/file/d/18fs8Y5T3nmV7OAd8B-e7ObDVIJ6WoKXJ/view
 </p>
 
 ---
