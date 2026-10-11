@@ -168,7 +168,7 @@ The project utilised an AWS-hosted Linux environment with Apache web server and 
 |------------|---------------|
 | Operating System | CentOS 7 |
 | Server Type | Linux Server |
-| RAM | 1 GB |
+| RAM | 4 GB |
 
 ### Software Used
 
@@ -237,8 +237,6 @@ The platform successfully delivered:
 - Wikipedia
 - OpenAI ChatGPT
 - Google
-
-Referenced in the project report. 【1-9d19d0】
 
 ---
 
