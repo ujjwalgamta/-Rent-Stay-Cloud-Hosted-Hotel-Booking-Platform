@@ -2,9 +2,7 @@
 ### Hotel Booking and Renting Platform
 
 <p align="center">
-  https://img.shields.io/badge/Project-BCA%20Major%20Project-blue?style=for-the-badge
-  https://img.shields.io/badge/Status-Completed-success?style=for-the-badge
-  https://img.shields.io/badge/Platform-Web%20Application-orange?style=for-the-badge
+ Major Project File: https://drive.google.com/file/d/18fs8Y5T3nmV7OAd8B-e7ObDVIJ6WoKXJ/view
 </p>
 
 ---
@@ -228,8 +226,6 @@ The platform successfully delivered:
 **Guide:** Mr. Ashwani Rathee
 
 **Developer:** Ujjwal Gamta
-
-Based on Major_Project_Report.pdf. 【1-9d19d0】
 
 ---
 
